@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack, AI/ML, IoT,Data Analytics, JAVA Projects**
 
-- 📫 How to reach me **srikanthreddypvj@gmail.com**
+- 📫 Reach me **srikanthreddypvj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
